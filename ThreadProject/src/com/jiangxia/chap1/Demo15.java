@@ -1,5 +1,10 @@
 package com.jiangxia.chap1;
 
+/**
+ * 停止线程之interrupt方法
+ * author：jiangxia
+ * date：2021-04-15
+ */
 public class Demo15 {
     public static void main(String[] args) {
         Thread thread = new Thread15();

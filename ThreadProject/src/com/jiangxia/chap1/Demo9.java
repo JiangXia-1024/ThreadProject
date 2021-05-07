@@ -1,7 +1,10 @@
 package com.jiangxia.chap1;
 
-import java.sql.SQLOutput;
-
+/**
+ * isAlive方法
+ * author：jiangxia
+ * date：2021-04-14
+ */
 public class Demo9 {
     public static void main(String[] args) {
         Thread t = new Demo9Thread();

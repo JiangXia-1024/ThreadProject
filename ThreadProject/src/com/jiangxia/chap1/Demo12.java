@@ -1,5 +1,10 @@
 package com.jiangxia.chap1;
 
+/**
+ * 线程停止的方法之：使用退出标志
+ * author：jiangxia
+ * date：2021-04-15
+ */
 public class Demo12 {
     public static void main(String[] args) throws InterruptedException {
         Demo12Thread t = new Demo12Thread();
@@ -24,6 +29,9 @@ class Demo12Thread extends Thread{
         }
     }
 
+    /**
+     * 定义一个停止线程的方法
+     */
     public void stopThread(){
         //将标志位改为flase
         flag = false;

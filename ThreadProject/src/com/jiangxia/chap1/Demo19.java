@@ -1,18 +1,24 @@
 package com.jiangxia.chap1;
 
+/**
+ * resume方法和suspend方法的使用
+ * author：jiangxia
+ * date：2021-04-16
+ */
 public class Demo19 {
     public static void main(String[] args) throws InterruptedException {
         Thread19 t = new Thread19();
+        //使用start方法启动线程
         t.start();
         Thread.sleep(1000);
-        //该方法同样已经舍弃
+        //该resume方法同样已经被舍弃方法同样已经舍弃
         t.suspend();//暂停线程
         System.out.println("Time1="+System.currentTimeMillis()+";i="+t.getI());
         Thread.sleep(1000);
         System.out.println("Time1="+System.currentTimeMillis()+";i="+t.getI());
 
-        //回复暂停的线程
-        //该方法同样已经被舍弃
+        //恢复暂停的线程
+        //resume方法同样已经被舍弃
         t.resume();
         Thread.sleep(1000);
 

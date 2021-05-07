@@ -3,7 +3,7 @@ package com.jiangxia.chap1;
 /**
  * 守护线程
  * author：jiangxia
- * date：2021-04-05
+ * date：2021-04-15
  */
 public class Demo26 {
     public static void main(String[] args) throws InterruptedException {

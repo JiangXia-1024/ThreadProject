@@ -5,7 +5,7 @@ import java.util.Random;
 /**
  * 线程优先级
  * author :jiangxia
- * date:2021-04-05
+ * date:2021-04-14
  */
 public class Demo25 {
     public static void main(String[] args) {

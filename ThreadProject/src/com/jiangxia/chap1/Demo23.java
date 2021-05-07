@@ -1,6 +1,10 @@
 package com.jiangxia.chap1;
 
-//yield方法
+/**
+ * yield方法
+ * author:jiangxia
+ * date:2021-04-14
+ */
 public class Demo23 {
     public static void main(String[] args) {
         Thread t1 = new Demo23Thread();

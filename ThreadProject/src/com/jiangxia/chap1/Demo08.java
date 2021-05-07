@@ -1,5 +1,10 @@
 package com.jiangxia.chap1;
 
+/**
+ * 线程的currentThread方法
+ * author：jiangxia
+ * date：2021-04-14
+ */
 public class Demo08 {
     public static void main(String[] args) {
         Thread t = new Demo8Thread();

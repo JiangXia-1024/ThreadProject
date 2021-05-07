@@ -1,5 +1,10 @@
 package com.jiangxia.chap1;
 
+/**
+ * getPriority、setPriority
+ * author;jiangxia
+ * date:2021-04-14
+ */
 public class Demo24 {
     public static void main(String[] args) {
         //默认的优先级是5
