@@ -12,55 +12,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Demo12.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jiangxia/chap2/Demo12.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Demo13.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jiangxia/chap2/Demo13.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1056">
-              <caret line="48" column="10" selection-end-line="72" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Demo14.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jiangxia/chap2/Demo14.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Demo15.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jiangxia/chap2/Demo15.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="26" selection-end-line="47" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Demo16.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jiangxia/chap2/Demo16.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="792">
-              <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
-              <folding>
-                <element signature="e#1157#1158#0" expanded="true" />
-                <element signature="e#1195#1196#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Demo17.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/jiangxia/chap2/Demo17.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -110,8 +61,8 @@
       <file leaf-file-name="Demo20.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/jiangxia/chap2/Demo20.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="50" column="14" lean-forward="true" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
+            <state relative-caret-position="1012">
+              <caret line="50" column="14" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
               <folding>
                 <element signature="e#1341#1342#0" expanded="true" />
                 <element signature="e#1379#1380#0" expanded="true" />
@@ -126,17 +77,58 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Demo21.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Demo21.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/jiangxia/chap2/Demo21.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="25" column="9" lean-forward="true" selection-start-line="24" selection-start-column="32" selection-end-line="25" selection-end-column="9" />
+            <state relative-caret-position="348">
+              <caret line="29" column="39" lean-forward="true" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
               <folding>
                 <element signature="e#1126#1127#0" expanded="true" />
                 <element signature="e#1166#1167#0" expanded="true" />
                 <element signature="e#1243#1244#0" expanded="true" />
                 <element signature="e#1283#1284#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Demo01.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/jiangxia/chap3/Demo01.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="Demo06.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/jiangxia/chap3/Demo06.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="42" column="17" selection-end-line="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Demo05.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/jiangxia/chap3/Demo05.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="16" column="45" lean-forward="true" selection-end-line="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Demo07.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/jiangxia/chap3/Demo07.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Demo04.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/jiangxia/chap3/Demo04.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="18" selection-end-line="48" />
             </state>
           </provider>
         </entry>
@@ -158,7 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/jiangxia/chap2/Demo1.java" />
         <option value="$PROJECT_DIR$/src/com/jiangxia/chap2/Demo2.java" />
         <option value="$PROJECT_DIR$/src/com/jiangxia/chap2/Demo3.java" />
         <option value="$PROJECT_DIR$/src/com/jiangxia/chap2/Demo4.java" />
@@ -209,6 +200,7 @@
         <option value="$PROJECT_DIR$/src/com/jiangxia/chap2/Demo19.java" />
         <option value="$PROJECT_DIR$/src/com/jiangxia/chap2/Demo20.java" />
         <option value="$PROJECT_DIR$/src/com/jiangxia/chap2/Demo21.java" />
+        <option value="$PROJECT_DIR$/src/com/jiangxia/chap3/Demo07.java" />
       </list>
     </option>
   </component>
@@ -229,7 +221,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -253,13 +245,13 @@
               <item name="ThreadProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="jiangxia" type="462c0819:PsiDirectoryNode" />
-              <item name="chap2" type="462c0819:PsiDirectoryNode" />
+              <item name="chap3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -271,6 +263,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\workspace\java\ThreadProject\ThreadProject\src\com\jiangxia\chap3" />
       <recent name="D:\JavaProjectSpace\ThreadProjectDemo\ThreadProject\src\com\jiangxia\chap2" />
       <recent name="D:\JavaProjectSpace\ThreadProject\src\com\jiangxia\chap1" />
     </key>
@@ -287,43 +280,43 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo21">
-    <configuration name="Demo17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiangxia.chap2.Demo17" />
+  <component name="RunManager" selected="Application.Demo07">
+    <configuration name="Demo04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiangxia.chap3.Demo04" />
       <module name="ThreadProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiangxia.chap2.*" />
+          <option name="PATTERN" value="com.jiangxia.chap3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Demo18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiangxia.chap2.Demo18" />
+    <configuration name="Demo05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiangxia.chap3.Demo05" />
       <module name="ThreadProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiangxia.chap2.*" />
+          <option name="PATTERN" value="com.jiangxia.chap3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Demo19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiangxia.chap2.Demo19" />
+    <configuration name="Demo06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiangxia.chap3.Demo06" />
       <module name="ThreadProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiangxia.chap2.*" />
+          <option name="PATTERN" value="com.jiangxia.chap3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Demo20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiangxia.chap2.Demo20" />
+    <configuration name="Demo07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiangxia.chap3.Demo07" />
       <module name="ThreadProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiangxia.chap2.*" />
+          <option name="PATTERN" value="com.jiangxia.chap3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -354,19 +347,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Application.Demo17" />
-      <item itemvalue="Application.Demo18" />
-      <item itemvalue="Application.Demo19" />
-      <item itemvalue="Application.Demo20" />
       <item itemvalue="Application.Demo21" />
+      <item itemvalue="Application.Demo06" />
+      <item itemvalue="Application.Demo04" />
+      <item itemvalue="Application.Demo05" />
+      <item itemvalue="Application.Demo07" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo07" />
+        <item itemvalue="Application.Demo05" />
+        <item itemvalue="Application.Demo06" />
+        <item itemvalue="Application.Demo04" />
         <item itemvalue="Application.Demo21" />
-        <item itemvalue="Application.Demo20" />
-        <item itemvalue="Application.Demo19" />
-        <item itemvalue="Application.Demo18" />
-        <item itemvalue="Application.Demo17" />
       </list>
     </recent_temporary>
   </component>
@@ -392,12 +385,13 @@
       <workItem from="1620554637105" duration="589000" />
       <workItem from="1621150557210" duration="6987000" />
       <workItem from="1621338244091" duration="805000" />
-      <workItem from="1623675449597" duration="111000" />
+      <workItem from="1623675449597" duration="1339000" />
+      <workItem from="1623756104235" duration="1704000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55748000" />
+    <option name="totallyTimeSpent" value="58680000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -445,41 +439,6 @@
     </ignored-roots>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/jiangxia/chap2/Demo6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="38" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jiangxia/chap2/Demo7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jiangxia/chap2/Demo8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jiangxia/chap2/Demo10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jiangxia/chap2/Demo9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jiangxia/chap5/Demo2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -807,8 +766,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jiangxia/chap2/Demo20.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="50" column="14" lean-forward="true" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
+        <state relative-caret-position="1012">
+          <caret line="50" column="14" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
           <folding>
             <element signature="e#1341#1342#0" expanded="true" />
             <element signature="e#1379#1380#0" expanded="true" />
@@ -824,14 +783,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jiangxia/chap2/Demo21.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="25" column="9" lean-forward="true" selection-start-line="24" selection-start-column="32" selection-end-line="25" selection-end-column="9" />
+        <state relative-caret-position="348">
+          <caret line="29" column="39" lean-forward="true" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
           <folding>
             <element signature="e#1126#1127#0" expanded="true" />
             <element signature="e#1166#1167#0" expanded="true" />
             <element signature="e#1243#1244#0" expanded="true" />
             <element signature="e#1283#1284#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jiangxia/chap3/Demo01.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jiangxia/chap3/Demo04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="18" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jiangxia/chap3/Demo06.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="42" column="17" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jiangxia/chap3/Demo05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="45" lean-forward="true" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jiangxia/chap3/Demo07.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
         </state>
       </provider>
     </entry>
